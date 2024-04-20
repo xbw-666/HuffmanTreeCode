@@ -1,0 +1,12 @@
+﻿  huffmanTreeCode.c
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(37,9): warning C4047: “=”:“int”与“int *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(41,30): warning C4047: “!=”:“int”与“int *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(49,63): warning C4047: “!=”:“int”与“int *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(53,9): warning C4047: “=”:“int”与“int *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(60,5): warning C4047: “=”:“HuffmanTree”与“HuffmanTree *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(72,7): warning C4047: “初始化”:“int”与“void *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(73,7): warning C4047: “初始化”:“int”与“void *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(97,5): warning C4047: “=”:“HuffmanTree”与“HuffmanTree *”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(138,17): warning C4047: “函数”:“DataType *”与“DataType **”的间接级别不同
+E:\哈夫曼编码\哈夫曼编码\huffmanTreeCode.c(138,17): warning C4024: “CreateHuff”: 形参和实参 2 的类型不同
+  哈夫曼编码.vcxproj -> E:\哈夫曼编码\x64\Debug\哈夫曼编码.exe
